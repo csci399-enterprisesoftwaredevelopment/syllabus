@@ -7,8 +7,8 @@ permalink: /
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+* **Course:** CSCI 490-Mobile Application Development
+* **Instructor:** Keith Briggs, [kabriggs@g.cofc.edu](mailto:kabriggs@g.cofc.edu)
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
@@ -24,10 +24,10 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction like adding/removing elements/classes, etc.)
+* CSCI 230-Data Structures and Alghorithms or equivalent (CSCI 221 for non-majors)
+* Understanding of Java programming language, data types, control flow, and basic method usage in Java
+* Working knowledge of an IDE such as Eclipse or IntelliJ (IntelliJ preferred)
+* Working knowledge of Git and Github
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
 
