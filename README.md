@@ -160,25 +160,14 @@ Apr. 29 	Project Demonstrations
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
-* see also – [Other Lists](#other-lists)
+* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
+* [Udacity Courses](https://www.udacity.com/)
+* [Developer's Blog](http://android-developers.blogspot.com/)
 
 ### Recommended Reading
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
+* [Introduction to Android Application Development](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/0321940261) by Joseph Annuzzi, Jr.
+* [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
 
 #### Specific Topics
 
@@ -245,14 +234,20 @@ This class assumes you are confident with this material, but in case you need a 
 
 ## Grading
 
-* Class Participation – 30%
-* Homework – 70%
+The final grade for the course is based on 6 grades as follows:
+
+    Two assigned in-class tests. Each test counts as a separate grade.
+    Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
+    Programming assignments – collectively count as 2 grades.
+    Course project – counts as 2 grades.
+    Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
+
 
 ## Statements on Plagiarism
 
 ### SCPS
 
-> New York University takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
+> The College of Charleston takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
 
 ### Instructor
 
