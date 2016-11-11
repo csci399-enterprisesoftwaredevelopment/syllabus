@@ -3,23 +3,22 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Mobile Application Development syllabus
+# <img src="assets/androidmedium.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
 * **Course:** CSCI 490-Mobile Application Development
 * **Instructor:** Keith Briggs, [kabriggs@g.cofc.edu](mailto:kabriggs@g.cofc.edu)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
+    * [Piazza](https://piazza.com/)
+        * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+    * Office Hours: 
+   * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
-
+This hands-on, project-oriented course explores the principles and tools involved in the design and construction of applications for mobile devices. Although the course focuses on the Android platform, the basic concepts and experiences extend to other mobile devices. Topics include an overview of mobile application development, the Android application architecture, mobile application lifecycle, managing application resources, designing user interfaces, data storage options, integrating audio and video, location-based services, cross-platform development using a mobile device emulator, and porting applications to actual devices. In addition to several smaller programming assignments to provide experience and reinforce concepts, students will work in teams on a substantial programming project to design, develop, and deploy a mobile application.
 Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
 ## Prerequisites
@@ -61,14 +60,15 @@ If you're using GitHub Desktop, these general instructions will help:
 
 Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
+1. Fork the repository for the exercise/project.
 1. Clone the repository to your computer.
-1. Open the `index.html` file in a browser and open the Developer Tools.
-1. Modify the files to complete your solution.
-1. Refresh the `index.html` page to see the results, and repeat.
+1. Read the instructions provided by the README file.
+1. Modify the files to complete your assignment.
+1. Test your solution with both an Android Virtual Device and a real phone.
+1. Create and include a screenshots of your application in action.
 1. Make sure all of your code is committed.
 1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of class on the specified date.
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
@@ -101,120 +101,43 @@ Bonus points for:
 * Automated tests
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
+* Something that WOW's me.
 
-## Course Outline
+## Course Schedule (tenative)
 
-### Class 1
+### Topics Covered:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Are you new to front-end web development? Here&#39;s a secret: no one else really knows what they&#39;re doing either.</p>&mdash; Nicolas (@necolas) <a href="https://twitter.com/necolas/status/291978260433219584">January 17, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Jan. 14 	Overview of Android Application Development
 
-1. Introduction
-    * Put name on sticky note on back of monitor
-    * Discuss what the class is going to cover
-    * Everyone introduce themselves
-        * Name
-        * What you "do"
-        * What are your goals for the class?
-        * What's something in JS (or technology) you worry that your peers understand but you don't?
-1. Setup
-    * How many people are comfortable with Git/GitHub?
-    * Install [GitHub Desktop](https://desktop.github.com/)
-        * If you are comfortable with Git already, you can skip this.
-    * Sign up for GitHub
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Explain how slides work
-1. Get through `countdown_exercise` slide
-1. Talk through [requirements](#requirements)
+Jan. 21 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
 
-#### Homework
+Jan. 28 	User Interface Basics, Saving Activity State, Debugging Android Applications
+ 
+Feb. 4 	User Interfaces
 
-* Join [the chat room](https://gitter.im/advanced-js/syllabus).
-* [Set up your GitHub profile.](https://github.com/settings/profile)
-* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
-    * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Read [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises.
-* Complete [blink](https://github.com/advanced-js/blink) exercise.
+Feb. 11 	Threads, Network Applications
 
-### Class 2
+Feb. 18 	Test #1
 
-1. Look at various approaches for `countdown()`
-    * Show recursive solution
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
-1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
-    * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
+Feb. 25 	Applications with Multiple Activities; Advanced User Interfaces
+ 
+Mar. 4 	Data Storage (Preferences, File System, SQLite)
 
-#### Homework
+Mar. 11 	Data Storage Continued (SQLite, Content Providers, ListView)
 
-* Read [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [OOP exercise](https://github.com/advanced-js/oop), through V2
-* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
+Mar. 18 	Location-Based Applications
 
-### Class 3
+Mar. 25 	Spring Break (no class)
+ 
+Apr. 1 	Bluetooth, Animation; Multimedia
 
-1. Code review Memory
-1. Get through [`oop_inheritance`](http://advanced-js.github.io/deck/examples/oop_inheritance/) slide
-1. Cover automated testing
-    * Build up a test framework from scratch
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
-        * [Classes](http://jsbin.com/nukamun/edit?js,output)
-        * [QUnit documentation](http://qunitjs.com/)
-    * Other frameworks
-1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
-    * Network tab in Developer Tools
+Apr. 8 	Test #2
 
-#### Homework
+Apr. 15 	2D Graphics; Services
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
-* [Memory V3](https://github.com/advanced-js/memory#v3)
+Apr. 22 	Selected Topics
 
-### Class 4
-
-1. Finish slides
-1. Getting Serious example
-    * Quick intro to Backbone.js
-        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
-        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
-        * TDD?
-1. Multiple async
-    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
-
-#### Homework
-
-* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
-* [Mashup](https://github.com/advanced-js/mashup)
-* Improve your previous assignments
-
-### Class 5
-
-1. Present and code review Mashup projects
-1. Possible topics (vote?):
-    * Node.js
-        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
-            * [HTTP module docs](http://nodejs.org/api/http.html)
-        * HTTP requests
-            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
-            * Headers
-        * CommonJS?
-    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input from a text area, e.g.
-            * Link Twitter handles
-            * Substitute select words for emoji, using [emoji-css](http://afeld.github.io/emoji-css/)
-    * Object-Oriented design
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
-        * [Game of Life](http://coderetreat.org/gol)
-        * Tic Tac Toe
+Apr. 29 	Project Demonstrations
 
 ## Pairing Tips
 
