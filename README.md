@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/androidmedium.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
+# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
