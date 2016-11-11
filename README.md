@@ -13,7 +13,7 @@ permalink: /
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours: 
+    * Office Hours: Tue & Thur- 4:30 to 5:30, Web- 5:00 to 6:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
@@ -141,26 +141,22 @@ Apr. 29 	Project Demonstrations
 
 ## Pairing Tips
 
-* Three people is possible, but two works best
+* Groups of two, unless there is an odd number of students
 * Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
+* Use Github for collaboration, branch/merge model is recommended
+* Meet regularly. Use Google Hangouts when you cannot meet in person (Hint: Sharing your screen is very useful)
 
 ## Resources
 
 ### Required Reading
 
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
+* [Android Programming The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide/dp/0134171454/ref=sr_1_1?ie=UTF8&qid=1478874065&sr=8-1&keywords=android+programming+the+big+nerd+ranch+guide+2nd+edition)
 
 ### Beginner Materials
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
+
 * [Udacity Courses](https://www.udacity.com/)
 * [Developer's Blog](http://android-developers.blogspot.com/)
 
@@ -169,32 +165,9 @@ This class assumes you are confident with this material, but in case you need a 
 * [Introduction to Android Application Development](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/0321940261) by Joseph Annuzzi, Jr.
 * [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
 
-#### Specific Topics
-
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks](http://www.html5rocks.com)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
-
-#### Other Lists
-
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
-
 ### Tools
 
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
+* [Android Studio](https://developer.android.com/studio/index.html)
 
 #### GitHub
 
@@ -205,42 +178,20 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-#### HTML/CSS/JS Sandboxes
-
-* [JS Bin](http://jsbin.com/) (recommended)
-* [bl.ocks.org](http://bl.ocks.org/)
-* [Cloud9](https://c9.io/)
-* [CodePen](http://codepen.io/pen/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Mozilla Thimble](https://thimble.mozilla.org)
-* [Plunker](http://plnkr.co/)
-* [rawgithub.com](http://rawgit.com/)
-
-#### Frameworks
-
-* Framework comparison: [TodoMVC](http://todomvc.com)
-* [Testing](https://coderwall.com/p/ntbixw)
-
 ### Reference
 
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
-
-### More Examples
-
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
+* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
+* [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
 
 ## Grading
 
 The final grade for the course is based on 6 grades as follows:
 
-    Two assigned in-class tests. Each test counts as a separate grade.
-    Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
-    Programming assignments – collectively count as 2 grades.
-    Course project – counts as 2 grades.
-    Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
+* Two assigned in-class tests. Each test counts as a separate grade.
+* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
+* Programming assignments – collectively count as 2 grades.
+* Course project – counts as 2 grades.
+* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
 
 
 ## Statements on Plagiarism
