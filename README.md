@@ -32,20 +32,18 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ## Course Overview
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
+We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development and how those applications relate to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. It is intended to maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to Fork the assignment and complete assignments under Version Control (accomplished with Git).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
+* The Activity Lifecycle
+* Debugging Android Applications
+* Creating User Interfaces with Layouts and Widgets
+* UI Fragments and Fragment Managers
+* The Tool Bar
+* SQLite Databases
+* Explicit and Implicit Intents
+* Bluetooth
+* and More...
 
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
-
-See [this interview](https://web.archive.org/web/20140306162909/http://blog.masterstreet.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
 ## Homework/Projects
 
@@ -81,18 +79,8 @@ For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: th
 
 ### Requirements
 
-These apply to real life, as well.
-
-* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
-    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-    * All written JS should pass [JSHint](http://jshint.com).
-* Must apply "good programming style" learned in class
-    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-    * Optimize for readability.
-        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-    * For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](#instructor).
+* All applications must build, install, and run properly on a real Android phone (of the student's choosing). 
+* Assignments must be completed by the due date. Late assignments will only be accepted one week late and will be marked down a whole letter grade.
 
 #### Extra Credit
 
@@ -107,35 +95,35 @@ Bonus points for:
 
 ### Topics Covered:
 
-Jan. 14 	Overview of Android Application Development
+Jan. 12 	   Overview of Android Application Development
 
-Jan. 21 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
+Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
 
-Jan. 28 	User Interface Basics, Saving Activity State, Debugging Android Applications
+Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
  
-Feb. 4 	User Interfaces
+Jan. 31/2 	User Interfaces
 
-Feb. 11 	Threads, Network Applications
+Feb. 7/9 	Threads, Network Applications
 
-Feb. 18 	Test #1
+Feb. 14/16 	Test #1
 
-Feb. 25 	Applications with Multiple Activities; Advanced User Interfaces
+Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
  
-Mar. 4 	Data Storage (Preferences, File System, SQLite)
+Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
 
-Mar. 11 	Data Storage Continued (SQLite, Content Providers, ListView)
+Mar. 7/9 	Data Storage Continued (SQLite, Content Providers, ListView)
 
-Mar. 18 	Location-Based Applications
+Mar. 14/16 	Location-Based Applications
 
-Mar. 25 	Spring Break (no class)
+Mar. 21/23 	Spring Break (no class)
  
-Apr. 1 	Bluetooth, Animation; Multimedia
+Mar. 28/30 	Bluetooth, Animation; Multimedia
 
-Apr. 8 	Test #2
+Apr. 4/6 	Test #2
 
-Apr. 15 	2D Graphics; Services
+Apr. 11/13 	2D Graphics; Services
 
-Apr. 22 	Selected Topics
+Apr. 18/20 	Selected Topics
 
 Apr. 29 	Project Demonstrations
 
@@ -155,7 +143,6 @@ Apr. 29 	Project Demonstrations
 ### Beginner Materials
 
 This class assumes you are confident with this material, but in case you need a brush-up...
-
 
 * [Udacity Courses](https://www.udacity.com/)
 * [Developer's Blog](http://android-developers.blogspot.com/)
