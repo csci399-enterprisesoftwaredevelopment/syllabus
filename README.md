@@ -5,14 +5,14 @@ permalink: /
 
 # <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
+***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
 
 * **Course:** CSCI 490-Mobile Application Development
 * **Instructor:** Keith Briggs, [kabriggs@g.cofc.edu](mailto:kabriggs@g.cofc.edu)
 * **Need help?**
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
-    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
+    * Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/issues)
     * Office Hours: Tue & Thur- 4:30 to 5:30, Web- 5:00 to 6:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 
