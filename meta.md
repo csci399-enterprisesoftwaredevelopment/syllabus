@@ -3,9 +3,9 @@
 This material under this GitHub organization is for a 5 session, 18 contact hour Advanced JavaScript continuing education class.  It consists of:
 
 * [A repository for the syllabus](README.md)
-* [A repository for the slides/examples](https://github.com/advanced-js/deck)
-* [A repository of students](https://github.com/advanced-js/students)
-* One repository per assignment (everything else listed under https://github.com/advanced-js)
+* [A repository for the slides/examples]()
+* [A repository of students]()
+* One repository per assignment (everything else listed under https://github.com/CSCI-490-MobileAppDevelopment)
 
 ## Materials
 
