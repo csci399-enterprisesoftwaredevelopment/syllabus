@@ -214,6 +214,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Developer Resources  – [Android Developers](https://developer.android.com/index.html)
 * [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
+* [Textbook's website](https://introductiontoandroid.blogspot.com/)
 
 ## Grading
 
