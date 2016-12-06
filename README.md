@@ -169,6 +169,7 @@ Apr. 29 	Project Demonstrations
 * Read Chapter 3 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
 * GitHub tutorial project (Due Thur, 19 Jan 2017)
+* [Project1](https://classroom.github.com/assignment-invitations/07af076e3e3c94a70b812e42c26b3e05)
 
 
 ## Pairing Tips
