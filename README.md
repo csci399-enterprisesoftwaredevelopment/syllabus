@@ -32,7 +32,7 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ## Course Overview
 
-We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development and how those applications relate to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. It is intended to maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to Fork the assignment and complete assignments under Version Control (accomplished with Git).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
+We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. It is intended to maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to Fork the assignment and complete assignments under Version Control (accomplished with Git).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
 * The Activity Lifecycle
 * Debugging Android Applications
@@ -44,34 +44,25 @@ We will dive into the nuances of Android mobile device programming to teach how 
 * Bluetooth
 * and More...
 
-
 ## Homework/Projects
 
 All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-If you're using GitHub Desktop, these general instructions will help:
+1. Click on the appropiate project link in the [Course Outlline](#course-outline). This will create your own repository in the [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
+2. Clone the repository to your computer.
+3. Read the instructions provided by the README file.
+4. Modify the files to complete your assignment.
+5. Test your solution with both an Android Virtual Device and a real phone.
+6. Create and include a screenshots of your application in action.
+7. Make sure all of your code is committed.
+8. Push/sync up to GitHub.
 
-* <https://guides.github.com/activities/forking/>
-* <https://help.github.com/desktop/guides/contributing/>
+* All assignments are due at the start of class on the specified date.
+* You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
 
-Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
-
-1. Fork the repository for the exercise/project.
-1. Clone the repository to your computer.
-1. Read the instructions provided by the README file.
-1. Modify the files to complete your assignment.
-1. Test your solution with both an Android Virtual Device and a real phone.
-1. Create and include a screenshots of your application in action.
-1. Make sure all of your code is committed.
-1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of class on the specified date.
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
+* I will leave appropriate feedback as an Issue.
 
 #### Versions
 
@@ -90,6 +81,16 @@ Bonus points for:
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
 * Something that WOW's me.
+
+## Grading
+
+The final grade for the course is based on 6 grades as follows:
+
+* Two assigned in-class tests. Each test counts as a separate grade.
+* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
+* Programming assignments – collectively count as 2 grades.
+* Course project – counts as 2 grades.
+* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
 
 ## Course Schedule (tenative)
 
@@ -126,6 +127,55 @@ Apr. 11/13 	2D Graphics; Services
 Apr. 18/20 	Selected Topics
 
 Apr. 29 	Project Demonstrations
+
+## Resources
+
+### Required Reading
+
+* [Introduction to Android Application Development](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/0321940261) by Joseph Annuzzi, Jr.
+
+### Beginner Materials
+
+This class assumes you are confident with this material, but in case you need a brush-up...
+
+* [Udacity Courses](https://www.udacity.com/)
+* [Developer's Blog](http://android-developers.blogspot.com/)
+
+### Recommended Reading
+
+* [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
+* [Android Programming The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide/dp/0134171454/ref=sr_1_1?ie=UTF8&qid=1478874065&sr=8-1&keywords=android+programming+the+big+nerd+ranch+guide+2nd+edition)
+
+### Tools
+
+* [Android Studio](https://developer.android.com/studio/index.html)
+
+#### GitHub
+
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
+* GitHub Pages
+    * [Official site](https://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+### Reference
+
+* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
+* [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
+* [Textbook's website](https://introductiontoandroid.blogspot.com/)
+
+## Statements on Plagiarism
+
+### SCPS
+
+> The College of Charleston takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
+
+### Instructor
+
+Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
+
+Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 
 ## Course Outline
 
@@ -178,63 +228,3 @@ Apr. 29 	Project Demonstrations
 * Agree on an editor and environment that you're both comfortable with
 * Use Github for collaboration, branch/merge model is recommended
 * Meet regularly. Use Google Hangouts when you cannot meet in person (Hint: Sharing your screen is very useful)
-
-## Resources
-
-### Required Reading
-
-* [Introduction to Android Application Development](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/0321940261) by Joseph Annuzzi, Jr.
-
-### Beginner Materials
-
-This class assumes you are confident with this material, but in case you need a brush-up...
-
-* [Udacity Courses](https://www.udacity.com/)
-* [Developer's Blog](http://android-developers.blogspot.com/)
-
-### Recommended Reading
-
-* [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
-* [Android Programming The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide/dp/0134171454/ref=sr_1_1?ie=UTF8&qid=1478874065&sr=8-1&keywords=android+programming+the+big+nerd+ranch+guide+2nd+edition)
-
-### Tools
-
-* [Android Studio](https://developer.android.com/studio/index.html)
-
-#### GitHub
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
-### Reference
-
-* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
-* [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
-* [Textbook's website](https://introductiontoandroid.blogspot.com/)
-
-## Grading
-
-The final grade for the course is based on 6 grades as follows:
-
-* Two assigned in-class tests. Each test counts as a separate grade.
-* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
-* Programming assignments – collectively count as 2 grades.
-* Course project – counts as 2 grades.
-* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
-
-
-## Statements on Plagiarism
-
-### SCPS
-
-> The College of Charleston takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
-
-### Instructor
-
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
-
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
