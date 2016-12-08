@@ -46,7 +46,7 @@ We will dive into the nuances of Android mobile device programming to teach how 
 
 ## Homework/Projects
 
-All assignments are listed within the [Course Outline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/course-outline.md).
+All assignments are listed within the [Course Outline](course-outline.md).
 
 ### Workflow
 
