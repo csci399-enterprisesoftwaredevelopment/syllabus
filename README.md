@@ -101,31 +101,20 @@ Jan. 12 	   Overview of Android Application Development
 Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
 
 Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
- 
 Jan. 31/2 	User Interfaces
-
 Feb. 7/9 	Threads, Network Applications
-
-Feb. 14/16 	Test #1
-
+Feb. 14
+Feb. 16 	   Test #1
 Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
- 
 Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
-
 Mar. 7/9 	Data Storage Continued (SQLite, Content Providers, ListView)
-
 Mar. 14/16 	Location-Based Applications
-
 Mar. 21/23 	Spring Break (no class)
- 
 Mar. 28/30 	Bluetooth, Animation; Multimedia
-
-Apr. 4/6 	Test #2
-
+Apr. 4
+Apr. 6 	   Test #2
 Apr. 11/13 	2D Graphics; Services
-
 Apr. 18/20 	Selected Topics
-
 Apr. 29 	Project Demonstrations
 
 ## Resources
@@ -198,6 +187,7 @@ Please respect the terms of use and/or license of any code you find, and if you 
 * Download and install [Android Studio](https://developer.android.com/studio/index.html)
 * Join the Piazza group [CSCI-490 Group](piazza.com/cofc/spring2017/csci490)
 * Skim/Read chapter 1 and 2 of Introduction to Android Application Development
+* [github-workflow](https://classroom.github.com/assignment-invitations/53d0f6dbc38130b7b3bf033618d3057d) project
 
 
 ### Class 1
