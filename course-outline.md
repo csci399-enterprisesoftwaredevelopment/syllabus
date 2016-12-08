@@ -48,3 +48,9 @@
    * Creating develpment environment
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
+#### Homework
+
+* Read Chapter 3 of Introduction to Android Application Development
+* Post one programming/android question and one answer in Piazza
+* [first-android-app]()
+
