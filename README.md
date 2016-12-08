@@ -32,7 +32,7 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ## Course Overview
 
-We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. It is intended to maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to Fork the assignment and complete assignments under Version Control (accomplished with Git).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
+We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to Fork the assignment and complete assignments under Version Control (accomplished with Git).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
 * The Activity Lifecycle
 * Debugging Android Applications
@@ -59,10 +59,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 7. Make sure all of your code is committed.
 8. Push/sync up to GitHub.
 
-* All assignments are due at the start of class on the specified date.
-* You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
+***All assignments are due at the start of class on the specified date.***
 
-* I will leave appropriate feedback as an Issue.
+   * You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
+
+   * I will leave appropriate feedback as an Issue inside of your repository.
 
 #### Versions
 
