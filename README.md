@@ -64,6 +64,8 @@ All assignments are listed within the [Course Outline](#course-outline).
    * You can continue to push fixes and improvements until the date (with no penalty) or for one week after (with letter grade penalty) – just add a comment in the pull request to let me know it's been updated.
 
    * I will leave appropriate feedback as an Issue inside of your repository.
+   
+   * Edit the README file in your repository to relay any feedback or instructions about your submission
 
 #### Versions
 
@@ -101,12 +103,12 @@ The final grade for the course is based on 6 grades as follows:
 * Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
 * Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
 * Jan. 31/2 	User Interfaces8 
-* Feb. 7/9 	Threads, Network Applications
+* Feb. 7/9 	   Threads, Network Applications
 * Feb. 14
 * Feb. 16 	   Test #1
 * Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
 * Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
-* Mar. 7/9 	Data Storage Continued (SQLite, Content Providers, ListView)
+* Mar. 7/9 	   Data Storage Continued (SQLite, Content Providers, ListView)
 * Mar. 14/16 	Location-Based Applications
 * Mar. 21/23 	Spring Break (no class)
 * Mar. 28/30 	Bluetooth, Animation; Multimedia
@@ -114,7 +116,7 @@ The final grade for the course is based on 6 grades as follows:
 * Apr. 6 	   Test #2
 * Apr. 11/13 	2D Graphics; Services
 * Apr. 18/20 	Selected Topics
-* Apr. 29 	Project Demonstrations
+* Apr. 29 	   Project Demonstrations
 
 ## Resources
 
@@ -167,7 +169,7 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 ## Course Outline
 
-### Class 0
+### Class 0 - 12 Jan 2017
 
 1. Introduction
     * Introduce mobile applications and the unique challenges to development of mobile applications.
@@ -183,15 +185,28 @@ Please respect the terms of use and/or license of any code you find, and if you 
 #### Homework
 
 * Sign up for [Github](https://github.com) and email your username.
-* Download and install [Android Studio](https://developer.android.com/studio/index.html)
 * Join the Piazza group [CSCI-490 Group](piazza.com/cofc/spring2017/csci490)
-* Skim/Read chapter 1 and 2 of Introduction to Android Application Development
 * [github-workflow](https://classroom.github.com/assignment-invitations/53d0f6dbc38130b7b3bf033618d3057d) project
+   * Note: You will need a Java IDE such as Eclipse for github-project assignment
+* Skim/Read chapter 1 and 2 of Introduction to Android Application Development
+* Download and install [Android Studio](https://developer.android.com/studio/index.html)
 
 
-### Class 1
+### Class 1 - 17 Jan 2017
 
 1. Java Overview
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+
+#### Homework
+
+* Download and install [Android Studio](https://developer.android.com/studio/index.html) (if you have not done so already)
+* Read Chapter 3 of Introduction to Android Application Development
+* Post one programming/android question and one answer in Piazza
+
+### Class 2 - 19 Jan 2017
+
+1. Java Overview (Cont.)
 2. Android platform
    * Architecture
    * Linux Operating System
@@ -207,8 +222,7 @@ Please respect the terms of use and/or license of any code you find, and if you 
 
 * Read Chapter 3 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
-* GitHub tutorial project (Due Thur, 19 Jan 2017)
-* [Project1](https://classroom.github.com/assignment-invitations/07af076e3e3c94a70b812e42c26b3e05)
+* [first-android-app]()
 
 
 ## Pairing Tips
