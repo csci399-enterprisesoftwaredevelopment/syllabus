@@ -96,26 +96,24 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-Jan. 12 	   Overview of Android Application Development
-
-Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
-
-Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
-Jan. 31/2 	User Interfaces
-Feb. 7/9 	Threads, Network Applications
-Feb. 14
-Feb. 16 	   Test #1
-Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
-Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
-Mar. 7/9 	Data Storage Continued (SQLite, Content Providers, ListView)
-Mar. 14/16 	Location-Based Applications
-Mar. 21/23 	Spring Break (no class)
-Mar. 28/30 	Bluetooth, Animation; Multimedia
-Apr. 4
-Apr. 6 	   Test #2
-Apr. 11/13 	2D Graphics; Services
-Apr. 18/20 	Selected Topics
-Apr. 29 	Project Demonstrations
+* Jan. 12 	   Overview of Android Application Development
+* Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
+* Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
+* Jan. 31/2 	User Interfaces8 
+* Feb. 7/9 	Threads, Network Applications
+* Feb. 14
+* Feb. 16 	   Test #1
+* Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
+* Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
+* Mar. 7/9 	Data Storage Continued (SQLite, Content Providers, ListView)
+* Mar. 14/16 	Location-Based Applications
+* Mar. 21/23 	Spring Break (no class)
+* Mar. 28/30 	Bluetooth, Animation; Multimedia
+* Apr. 4
+* Apr. 6 	   Test #2
+* Apr. 11/13 	2D Graphics; Services
+* Apr. 18/20 	Selected Topics
+* Apr. 29 	Project Demonstrations
 
 ## Resources
 
