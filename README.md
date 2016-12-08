@@ -168,13 +168,6 @@ Reuse and building upon ideas or code are major parts of modern software develop
 Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
 
 
-#### Homework
-
-* Read Chapter 3 of Introduction to Android Application Development
-* Post one programming/android question and one answer in Piazza
-* [first-android-app]()
-
-
 ## Pairing Tips
 
 * Groups of two, unless there is an odd number of students
