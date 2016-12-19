@@ -46,11 +46,11 @@ We will dive into the nuances of Android mobile device programming to teach how 
 
 ## Homework/Projects
 
-All assignments are listed within the [Course Outline](course-outline.md).
+All assignments are listed within the [Course Outline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md).
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Course Outlline](#course-outline). This will create your own repository in the [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
+1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md). This will create your own repository in the [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
 2. Clone the repository to your computer.
 3. Read the instructions provided by the README file.
 4. Modify the files to complete your assignment.
