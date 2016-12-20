@@ -16,16 +16,19 @@
 #### Homework
 
 * Sign up for [Github](https://github.com) and email your username.
+* Install [Git](https://git-scm.com/downloads) to you local computer.
+   * Windows users recommended to use [Git BASH](https://git-for-windows.github.io/) 
 * Join the Piazza group [CSCI-490 Group](piazza.com/cofc/spring2017/csci490)
 * [github-workflow](https://classroom.github.com/assignment-invitations/53d0f6dbc38130b7b3bf033618d3057d) project
-   * Note: You will need a Java IDE such as Eclipse for github-project assignment
+   * Note: You will need a Java IDE such as Eclipse or IntelliJ IDEA (preferred) for github-project assignment
 * Skim/Read chapter 1 and 2 of Introduction to Android Application Development
 * Download and install [Android Studio](https://developer.android.com/studio/index.html)
 
 
 ### Class 1 - 17 Jan 2017
 
-1. Java Overview
+1. Git and GitHub overview
+2. Java Overview
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
