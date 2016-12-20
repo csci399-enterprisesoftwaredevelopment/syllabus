@@ -8,7 +8,7 @@ permalink: /
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/meta.md) document.***
 
 * **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment)
-* **Instructor:** Keith Briggs | [Instructor Website](http://kabriggs.cofc.edu)
+* **Instructor:** [Keith Briggs](http://kabriggs.cofc.edu)
 * **Need help?**
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
