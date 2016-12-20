@@ -12,6 +12,7 @@
    * Introduce the main references for this course (textbook and online resources)
    * Provide the rationale for the course
    * Discuss important insights about the course and learning in general
+* [Slide Presentation](https://docs.google.com/presentation/d/1wfEjZae99QWwc0fsPF85pAxsYRbMkRInNM_bzbm2AFs/edit#slide=id.g35f391192_00)
 
 #### Homework
 
