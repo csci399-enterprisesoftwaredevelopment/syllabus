@@ -12,7 +12,6 @@ permalink: /
 * **Need help?**
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
-    * Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/issues)
     * Office Hours: Tue & Thur- 4:30 to 5:30, Web- 5:00 to 6:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 
@@ -84,6 +83,7 @@ Bonus points for:
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
 * Something that WOW's me.
+* Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/issues)
 
 ## Grading
 
