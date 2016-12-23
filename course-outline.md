@@ -56,5 +56,5 @@
 
 * Read Chapter 3 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
-* [first-android-app]()
+* [first-android-app](https://classroom.github.com/assignment-invitations/1ccfa3007af65672efa37e92dec1a92c)
 
