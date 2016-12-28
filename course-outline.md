@@ -20,7 +20,7 @@
 * Install [Git](https://git-scm.com/downloads) to you local computer.
    * Windows users recommended to use [Git BASH](https://git-for-windows.github.io/) 
 * Join the Piazza group [CSCI-490 Group](piazza.com/cofc/spring2017/csci490)
-* [github-workflow](https://classroom.github.com/assignment-invitations/53d0f6dbc38130b7b3bf033618d3057d) project
+* [github-workflow](https://github.com/CSCI-490-MobileAppDevelopment/github-workflow)
    * Note: You will need a Java IDE such as Eclipse or IntelliJ IDEA (preferred) for github-project assignment
 * Skim/Read chapter 1 and 2 of Introduction to Android Application Development
 * Download and install [Android Studio](https://developer.android.com/studio/index.html)
