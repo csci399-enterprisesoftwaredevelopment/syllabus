@@ -53,7 +53,34 @@
 
 #### Homework (Due 26 Jan 2017)
 
-* Read Chapter 3 of Introduction to Android Application Development
+* Read Chapter 4 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
 * [First-android-app](https://github.com/CSCI-490-MobileAppDevelopment/First-android-app)
+
+
+### Class 3 - 24 Jan 2017
+
+1. Understanding Application Basics
+   * Application Context
+   * Lifecycle of an Android Activity
+   * Managing Activity with Intents
+   * Debugging Android Applications
+* [Slide Presentation]()
+
+
+#### Homework ()
+
+* Read Chapter 5 of Introduction to Android Application Development
+
+### Class 4 - 26 Jan 2017
+
+1. Android platform
+   * User Interface Basics
+   * Saving Activity State
+* [Slide Presentation]()
+
+#### Homework ()
+
+* Read Chapter 6 of Introduction to Android Application Development
+* [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
 
