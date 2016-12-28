@@ -49,14 +49,17 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md). This will create your own repository in the [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
-2. Clone the repository to your computer.
-3. Read the instructions provided by the README file.
-4. Modify the files to complete your assignment.
-5. Test your solution with both an Android Virtual Device and a real phone.
-6. Create and include a screenshots of your application in action.
-7. Make sure all of your code is committed.
-8. Push/sync up to GitHub.
+1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/course-outline.md). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment) GitHub Organization account. 
+2. Create your Android project with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
+3. In Android Studio, share the project with GitHub.
+4. Read the instructions provided by the README file.
+5. Modify the files to complete your assignment.
+6. Test your solution with both an Android Virtual Device and a real phone.
+7. Create and include a screenshots of your application in action.
+8. Create a README file to communicate anything you need to me.
+9. Make sure all of your code is committed.
+10. Push/sync up to GitHub.
+11. The day the assignment is due, I would like a quick demo from a real device.
 
 ***All assignments are due at the start of class on the specified date.***
 
