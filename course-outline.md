@@ -29,7 +29,7 @@
 ### Class 1 - 17 Jan 2017
 
 1. Git and GitHub overview
-2. Java Overview
+2. Java Overview (if time permits)
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
@@ -41,14 +41,13 @@
 
 ### Class 2 - 19 Jan 2017
 
-1. Java Overview (Cont.)
-2. Android platform
+1. Android platform
    * Architecture
    * Linux Operating System
    * Android Runtime (ART)
    * Commonly used packages
    * Android Application Framework
-3. Setting Up For Development
+2. Setting Up For Development
    * Creating develpment environment
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
@@ -56,5 +55,5 @@
 
 * Read Chapter 3 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
-* [first-android-app](https://classroom.github.com/assignment-invitations/1ccfa3007af65672efa37e92dec1a92c)
+* [First-android-app](https://github.com/CSCI-490-MobileAppDevelopment/First-android-app)
 
