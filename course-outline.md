@@ -14,7 +14,7 @@
    * Discuss important insights about the course and learning in general
 * [Slide Presentation](https://docs.google.com/presentation/d/1wfEjZae99QWwc0fsPF85pAxsYRbMkRInNM_bzbm2AFs/edit#slide=id.g35f391192_00)
 
-#### Homework
+#### Homework (Due 19 Jan 2017)
 
 * Sign up for [Github](https://github.com) and email your username.
 * Install [Git](https://git-scm.com/downloads) to you local computer.
@@ -33,7 +33,7 @@
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
-#### Homework
+#### Homework (Due 19 Jan 2017)
 
 * Download and install [Android Studio](https://developer.android.com/studio/index.html) (if you have not done so already)
 * Read Chapter 3 of Introduction to Android Application Development
@@ -52,7 +52,7 @@
    * Creating develpment environment
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-#### Homework
+#### Homework (Due 26 Jan 2017)
 
 * Read Chapter 3 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
