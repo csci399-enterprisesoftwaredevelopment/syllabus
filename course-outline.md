@@ -36,7 +36,8 @@
 #### Homework (Due 19 Jan 2017)
 
 * Download and install [Android Studio](https://developer.android.com/studio/index.html) (if you have not done so already)
-* Read Chapter 3 of Introduction to Android Application Development
+* Skim Chapter 3 of Introduction to Android Application Development
+* Read Chapter 4 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
 
 ### Class 2 - 19 Jan 2017
@@ -47,13 +48,17 @@
    * Android Runtime (ART)
    * Commonly used packages
    * Android Application Framework
-2. Setting Up For Development
-   * Creating develpment environment
-* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+   * Understanding Application Components
+2. Activities
+   * Declaring an Activity
+   * Starting a new Activity with an Intent object
+   * Passing data to another activity
+3. Resources
+* [Slide Presentation](https://docs.google.com/presentation/d/1LsKE7PQX8TxL5Lc8So0RDafSxB4ipAQsHp7j8Ccpqpc/edit#slide=id.g35f391192_04)
 
 #### Homework (Due 26 Jan 2017)
 
-* Read Chapter 4 of Introduction to Android Application Development
+* Read Chapter 5 of Introduction to Android Application Development
 * Post one programming/android question and one answer in Piazza
 * [First-android-app](https://github.com/CSCI-490-MobileAppDevelopment/First-android-app)
 
