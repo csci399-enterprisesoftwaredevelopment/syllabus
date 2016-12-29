@@ -103,10 +103,11 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Jan. 12 	   Overview of Android Application Development
-* Jan. 17/19 	Review of Java (classes, interfaces, inheritance, inner classes, etc.)
+* Jan. 12 	   Introductions, Syllabus overview, Course expectations, Overview of Android Application Development
+* Jan. 17      Semester tools, Git, GitHub, Piazza, Android Studio
+* Jan. 19 	   Architecture, Activities and Lifecycle, Intent Objects, Resources
 * Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
-* Jan. 31/2 	User Interfaces8 
+* Jan. 31/2 	Events
 * Feb. 7/9 	   Threads, Network Applications
 * Feb. 14
 * Feb. 16 	   Test #1
