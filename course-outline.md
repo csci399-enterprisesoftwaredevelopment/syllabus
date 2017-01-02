@@ -28,7 +28,7 @@
 
 ### Class 1 - 17 Jan 2017
 
-1. Git and GitHub overview
+1. Semester Tools overview (Git and GitHub, Android Studio, Piazza)
 2. Java Overview (if time permits)
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
@@ -49,43 +49,49 @@
    * Commonly used packages
    * Android Application Framework
    * Understanding Application Components
-2. Activities
-   * Declaring an Activity
-   * Starting a new Activity with an Intent object
-   * Passing data to another activity
-3. Resources
-* [Slide Presentation](https://docs.google.com/presentation/d/1LsKE7PQX8TxL5Lc8So0RDafSxB4ipAQsHp7j8Ccpqpc/edit#slide=id.g35f391192_04)
-
-#### Homework (Due 26 Jan 2017)
-
-* Read Chapter 5 of Introduction to Android Application Development
-* Post one programming/android question and one answer in Piazza
-* [First-android-app](https://github.com/CSCI-490-MobileAppDevelopment/First-android-app)
-
-
-### Class 3 - 24 Jan 2017
-
-1. Understanding Application Basics
+2. Understanding Application Basics
    * Application Context
    * Lifecycle of an Android Activity
    * Managing Activity with Intents
    * Debugging Android Applications
-* [Slide Presentation]()
+* [Slide Presentation](https://docs.google.com/presentation/d/11kDj9pPiudASO6VdJdVdKFztA70Xh0eKN5MX1_oyCG4/edit#slide=id.g1b628ac7cf_0_628)
+
+#### Homework (Due 26 Jan 2017)
+
+* Read Chapter 6 of Introduction to Android Application Development
+* Read Chapter 7, pp. 147-161 of Introduction to Android Application Development
+* Post one programming/android question and one answer in Piazza
+* [First-android-app](https://github.com/CSCI-490-MobileAppDevelopment/First-android-app-project)
+
+
+### Class 3 - 24 Jan 2017
+
+1. Activities
+   * Declaring an Activity
+   * Starting a new Activity with an Intent object
+   * Passing data to another activity
+2. Resources
+   * Managing our application resources
+   * Retrieving resources programmatically
+3. Intro to Layouts and GUI basics
+   
+* [Slide Presentation](https://docs.google.com/presentation/d/10bQbJAs23THwfRNS8-7SzU76b9fe725w0EjqwVs_EP4/edit#slide=id.g35f391192_00)
 
 
 #### Homework ()
 
-* Read Chapter 5 of Introduction to Android Application Development
+* Read Chapter 8, pp. 179-188 of Introduction to Android Application Development
 
 ### Class 4 - 26 Jan 2017
 
 1. Android platform
    * User Interface Basics
    * Saving Activity State
-* [Slide Presentation]()
+2. Recap with GeoQuiz walkthrough
+* [Slide Presentation](https://docs.google.com/presentation/d/1BHTr3K5wi-A6Acwe9FFcTywUC5pY2bq2Log3MSnniH0/edit#slide=id.g35f391192_00)
 
 #### Homework ()
 
-* Read Chapter 6 of Introduction to Android Application Development
+* Read Chapter 5 of Introduction to Android Application Development
 * [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
 
