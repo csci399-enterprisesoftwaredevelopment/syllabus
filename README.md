@@ -93,11 +93,14 @@ Bonus points for:
 
 The final grade for the course is based on 6 grades as follows:
 
+90% of your grade consists of the following:
 * Two assigned in-class tests. Each test counts as a separate grade.
 * Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
 * Programming assignments – collectively count as 2 grades.
 * Course project – counts as 2 grades.
 * Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
+
+10% of your grade is attendance/participation
 
 ## Course Schedule (tenative)
 
