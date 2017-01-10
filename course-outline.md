@@ -90,7 +90,7 @@
 2. Recap with GeoQuiz walkthrough
 * [Slide Presentation](https://docs.google.com/presentation/d/1BHTr3K5wi-A6Acwe9FFcTywUC5pY2bq2Log3MSnniH0/edit#slide=id.g35f391192_00)
 
-#### Homework ()
+#### Homework (Due 02 Feb 2017)
 
 * Read Chapter 5 of Introduction to Android Application Development
 * [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
