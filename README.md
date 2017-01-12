@@ -12,7 +12,7 @@ permalink: /
 * **Need help?**
     * [Piazza](https://piazza.com/)
         * This is a question/answer forum for students to interact with one another. I encourage students to interact with one another as a resource as well as provide instructor answers.
-    * Office Hours: Tue & Thur- 4:30 to 5:30, Web- 5:00 to 6:30
+    * Office Hours: Tue & Thur- 4:30 to 5:30, Wed- 5:00 to 6:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](http://www.printfriendly.com/print?source=homepage&url_s=uGGCF%25dN%25cS%25cSpFpv-eja-zBovyrnCCqrIryBCzrAGmtvGuHomvB%25cSFLyynoHF%25cS#)
 
