@@ -54,7 +54,7 @@
    * Lifecycle of an Android Activity
    * Managing Activity with Intents
    * Debugging Android Applications
-* [Slide Presentation](https://docs.google.com/presentation/d/11kDj9pPiudASO6VdJdVdKFztA70Xh0eKN5MX1_oyCG4/edit#slide=id.g1b628ac7cf_0_628)
+* [Slide Presentation](https://docs.google.com/presentation/d/11kDj9pPiudASO6VdJdVdKFztA70Xh0eKN5MX1_oyCG4/edit?usp=sharing)
 
 #### Homework (Due 26 Jan 2017)
 
