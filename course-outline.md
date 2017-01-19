@@ -18,8 +18,8 @@
 
 * Sign up for [Github](https://github.com) and email your username.
 * Install [Git](https://git-scm.com/downloads) to you local computer.
-   * Windows users recommended to use [Git BASH](https://git-for-windows.github.io/) 
-* Join the Piazza group [CSCI-490 Group](piazza.com/cofc/spring2017/csci490)
+   * Windows users recommended to use [Git BASH](https://git-for-windows.github.io/)
+* Join the Piazza group [CSCI-490 Group](https://piazza.com/cofc/spring2017/csci490)
 * [github-workflow](https://github.com/CSCI-490-MobileAppDevelopment/github-workflow)
    * Note: You will need a Java IDE such as Eclipse or IntelliJ IDEA (preferred) for github-project assignment
 * Skim/Read chapter 1 and 2 of Introduction to Android Application Development
@@ -74,7 +74,7 @@
    * Managing our application resources
    * Retrieving resources programmatically
 3. Intro to Layouts and GUI basics
-   
+
 * [Slide Presentation](https://docs.google.com/presentation/d/10bQbJAs23THwfRNS8-7SzU76b9fe725w0EjqwVs_EP4/edit#slide=id.g35f391192_00)
 
 
@@ -94,4 +94,3 @@
 
 * Read Chapter 5 of Introduction to Android Application Development
 * [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
-
