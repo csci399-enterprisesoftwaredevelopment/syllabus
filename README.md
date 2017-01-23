@@ -108,19 +108,19 @@ The final grade for the course is based on 6 grades as follows:
 
 * Jan. 12 	   Introductions, Syllabus overview, Course expectations, Overview of Android Application Development
 * Jan. 17      Semester tools, Git, GitHub, Piazza, Android Studio
-* Jan. 19 	   Architecture, Activities and Lifecycle, Intent Objects, Resources
-* Jan. 24/26 	User Interface Basics, Saving Activity State, Debugging Android Applications
-* Jan. 31/2 	Events
-* Feb. 7/9 	   Threads, Network Applications
-* Feb. 14
+* Jan. 19 	   Architecture, Activities and Lifecycle
+* Jan. 24/26   Intent Objects, Managing Resources, Events, Saving Activity State, User Interface Basics
+* Jan. 31/2 	User Interface Basics, Debugging Android Applications, Positioning with Layouts
+* Feb. 7/9 	   Positioning with Layouts and Fragments
+* Feb. 14      Positioning with Fragments, Semester group project introduction
 * Feb. 16 	   Test #1
-* Feb. 21/23 	Applications with Multiple Activities; Advanced User Interfaces
+* Feb. 21/23 	Threads, Network Applications
 * Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
 * Mar. 7/9 	   Data Storage Continued (SQLite, Content Providers, ListView)
 * Mar. 14/16 	Location-Based Applications
 * Mar. 21/23 	Spring Break (no class)
-* Mar. 28/30 	Bluetooth, Animation; Multimedia
-* Apr. 4
+* Mar. 28/30 	Applications with Multiple Activities; Advanced User Interfaces
+* Apr. 4       Bluetooth, Animation; Multimedia
 * Apr. 6 	   Test #2
 * Apr. 11/13 	2D Graphics; Services
 * Apr. 18/20 	Selected Topics
