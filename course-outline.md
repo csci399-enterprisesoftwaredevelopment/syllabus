@@ -30,7 +30,7 @@
 
 1. Semester Tools overview (Git and GitHub, Android Studio, Piazza)
 2. Java Overview (if time permits)
-* [Slide Presentation](https://docs.google.com/presentation/d/11kDj9pPiudASO6VdJdVdKFztA70Xh0eKN5MX1_oyCG4/edit?usp=sharing)
+* [Slide Presentation](https://docs.google.com/presentation/d/1l1u_SK0XuTVLp0j_SYmmguV-wjyqLfoU1b3N8iWL4ZQ/edit?usp=sharing)
 
 
 #### Homework (Due 19 Jan 2017)
