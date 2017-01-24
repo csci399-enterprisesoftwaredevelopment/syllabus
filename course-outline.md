@@ -12,7 +12,7 @@
    * Introduce the main references for this course (textbook and online resources)
    * Provide the rationale for the course
    * Discuss important insights about the course and learning in general
-* [Slide Presentation](https://docs.google.com/presentation/d/1l1u_SK0XuTVLp0j_SYmmguV-wjyqLfoU1b3N8iWL4ZQ/edit?usp=sharing)
+* [Slide Presentation](https://docs.google.com/presentation/d/1wfEjZae99QWwc0fsPF85pAxsYRbMkRInNM_bzbm2AFs/edit?usp=sharing)
 
 #### Homework (Due 19 Jan 2017)
 
