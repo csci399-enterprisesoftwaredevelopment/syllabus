@@ -75,7 +75,7 @@
    * Retrieving resources programmatically
 3. Intro to Layouts and GUI basics
 
-* [Slide Presentation](https://docs.google.com/presentation/d/10bQbJAs23THwfRNS8-7SzU76b9fe725w0EjqwVs_EP4/edit#slide=id.g35f391192_00)
+* [Slide Presentation](https://docs.google.com/presentation/d/10bQbJAs23THwfRNS8-7SzU76b9fe725w0EjqwVs_EP4/edit?usp=sharing)
 
 
 #### Homework ()
