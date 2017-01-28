@@ -88,7 +88,7 @@
    * User Interface Basics
    * Saving Activity State
 2. Recap with GeoQuiz walkthrough
-* [Slide Presentation](https://docs.google.com/presentation/d/1BHTr3K5wi-A6Acwe9FFcTywUC5pY2bq2Log3MSnniH0/edit#slide=id.g35f391192_00)
+* [Slide Presentation](https://docs.google.com/presentation/d/17GFj2wqNmTyKSQ60A8t4nwPy5hV4ZkfAUTdUumU5WT4/edit?usp=sharing)
 
 #### Homework (Due 02 Feb 2017)
 
