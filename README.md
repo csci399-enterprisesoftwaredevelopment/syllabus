@@ -130,7 +130,7 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Required Reading
 
-* [Introduction to Android Application Development](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/0321940261) by Joseph Annuzzi, Jr.
+* [Introduction to Android Application Development, 5th Edition](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/013438945X/ref=sr_1_1?s=books&ie=UTF8&qid=1485636446&sr=1-1&keywords=intro+to+android+application+development) by Joseph Annuzzi, Jr.
 
 ### Recommended Reading
 * [Android Studio Development Essentials](https://www.amazon.com/Android-Studio-Development-Essentials/dp/1519722087/ref=sr_1_2?ie=UTF8&qid=1484255739&sr=8-2&keywords=android+studio+development) by Neil Smyth
