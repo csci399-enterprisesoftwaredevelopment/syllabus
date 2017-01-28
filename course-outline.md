@@ -68,8 +68,7 @@
 
 1. Activities
    * Declaring an Activity
-   * Starting a new Activity with an Intent object
-   * Passing data to another activity
+   * Setting the view for an Activity
 2. Resources
    * Managing our application resources
    * Retrieving resources programmatically
@@ -87,10 +86,27 @@
 1. Android platform
    * User Interface Basics
    * Saving Activity State
+   * Starting a new Activity with an Intent object
+   * Passing data to another activity
+2. Recap with GeoQuiz and IntentDemo walkthrough
+* [Slide Presentation](https://docs.google.com/presentation/d/17GFj2wqNmTyKSQ60A8t4nwPy5hV4ZkfAUTdUumU5WT4/edit?usp=sharing)
+
+#### Homework (Due 02 Feb 2017)
+
+* Read Chapter 4 of Introduction to Android Application Development
+* [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
+
+
+### Class 5 - 31 Jan 2017
+
+1. Android platform
+   * User Interface Basics
+   * Saving Activity State
 2. Recap with GeoQuiz walkthrough
 * [Slide Presentation](https://docs.google.com/presentation/d/17GFj2wqNmTyKSQ60A8t4nwPy5hV4ZkfAUTdUumU5WT4/edit?usp=sharing)
 
 #### Homework (Due 02 Feb 2017)
 
-* Read Chapter 5 of Introduction to Android Application Development
-* [Button-counter](https://github.com/CSCI-490-MobileAppDevelopment/Button-counter)
+* Read Chapter 7 of Introduction to Android Application Development
+
+
