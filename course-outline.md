@@ -79,7 +79,7 @@
 
 #### Homework ()
 
-* Read Chapter 8, pp. 179-188 of Introduction to Android Application Development
+* Read Chapter 7, pp. 179-188 of Introduction to Android Application Development
 
 ### Class 4 - 26 Jan 2017
 
@@ -100,13 +100,12 @@
 ### Class 5 - 31 Jan 2017
 
 1. Android platform
-   * User Interface Basics
-   * Saving Activity State
-2. Recap with GeoQuiz walkthrough
-* [Slide Presentation](https://docs.google.com/presentation/d/17GFj2wqNmTyKSQ60A8t4nwPy5hV4ZkfAUTdUumU5WT4/edit?usp=sharing)
+   * Building Blocks (TextView, EditText, AutoComplete, Spinner, ImageButton)
+2. Recap with BuidlingBlock code demo
+* [Slide Presentation](https://docs.google.com/presentation/d/1VS5pBZZ3qYM9QEWN8GfvMzqxiOLYMfVcFumFpHsDJow/edit?usp=sharing)
 
 #### Homework (Due 02 Feb 2017)
 
-* Read Chapter 7 of Introduction to Android Application Development
+* Read Chapter 8 of Introduction to Android Application Development
 
 
