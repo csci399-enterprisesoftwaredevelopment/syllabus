@@ -109,3 +109,17 @@
 * Read Chapter 8 of Introduction to Android Application Development
 
 
+### Class 6 - 02 Feb 2017
+
+1. Android platform
+   * Building Blocks (Cont) ()
+2. Recap with BuidlingBlock code demo
+3. [In-class activitiy](https://github.com/CSCI-490-MobileAppDevelopment/Inclass-Activity-01) (Due by 11:59 pm)
+
+
+#### Homework (Due 09 Feb 2017)
+
+* Read Chapter 8 of Introduction to Android Application Development (Cont.)
+* [Mortgage-calculator](https://github.com/CSCI-490-MobileAppDevelopment/Mortgage-calculator-project)
+
+
