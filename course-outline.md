@@ -109,7 +109,7 @@
 * Read Chapter 8 of Introduction to Android Application Development
 
 
-### Class 6 - 02 Feb 2017
+### Class 6 (Remote) - 02 Feb 2017
 
 1. Android platform
    * Building Blocks (Cont) ()
@@ -121,5 +121,60 @@
 
 * Read Chapter 8 of Introduction to Android Application Development (Cont.)
 * [Mortgage-calculator](https://github.com/CSCI-490-MobileAppDevelopment/Mortgage-calculator-project)
+
+
+### Class 6 - 07 Feb 2017
+
+1. Android platform
+   * Building Blocks (Cont) ()
+2. Recap with BuidlingBlock code demo
+* [Slide Presentation](https://docs.google.com/presentation/d/1xENKEnswTRRh8Gh1ovN9OVAHWVbtMaq2CxKPnIPJ_7c/edit?usp=sharing)
+
+
+#### Homework (Due 09 Feb 2017)
+
+* Read Chapter 8 of Introduction to Android Application Development (Cont.)
+
+
+### Class 7 - 09 Feb 2017
+
+1. Android platform
+   * Layouts
+2. Semester project team forming
+* [Slide Presentation](https://docs.google.com/presentation/d/19pORluXY3XwvZDRpf-cYsdRnek9QOARArprpQ-z0yE4/edit?usp=sharing)
+
+
+#### Homework (Due 14 Feb 2017)
+
+* Read Chapter 8 of Introduction to Android Application Development (Cont.)
+
+
+### Class 8 - 14 Feb 2017
+
+1. Android platform
+   * Data-driven containers
+2. Exam review
+* [Slide Presentation]()
+
+
+#### Homework (Due 09 Feb 2017)
+
+* Study for exam
+
+
+### Class 9 - 16 Feb 2017
+
+1. Exam (chapters 1 - 8)
+   * Andriod architecture
+   * Platform overview
+   * Application Basics
+   * Application Components
+   * Building Blocks
+   * Layouts
+
+
+#### Homework (Due 09 Feb 2017)
+
+* Study for exam
 
 
