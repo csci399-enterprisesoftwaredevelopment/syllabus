@@ -154,7 +154,7 @@
 1. Android platform
    * Data-driven containers
 2. Exam review
-* [Slide Presentation]()
+* [Slide Presentation](https://drive.google.com/open?id=1HIwHiPTUqZPeGy97BCaCeK7ocAYReQKKd_qPFquYlts)
 
 
 #### Homework (Due 09 Feb 2017)
@@ -173,8 +173,8 @@
    * Layouts
 
 
-#### Homework (Due 09 Feb 2017)
+#### Homework (Due 28 Feb 2017)
 
-* Study for exam
+* [Calculator Project](https://github.com/CSCI-490-MobileAppDevelopment/Calculator-project)
 
 
