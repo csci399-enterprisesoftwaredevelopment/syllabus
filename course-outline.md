@@ -178,3 +178,15 @@
 * [Calculator Project](https://github.com/CSCI-490-MobileAppDevelopment/Calculator-project)
 
 
+### Class 10 - 21 Feb 2017
+
+1. Android platform
+   * Networking Basics
+   * WebView
+   * Java Threading
+   * AsyncTask introduction
+2. Recap with MyWebView project on GitHub
+3. Team meeting time (finalize project document detailing the scope)
+* [Slide Presentation](https://docs.google.com/presentation/d/1bZsgUou808CxtCZdqhvlAWaHlW-XmNPR3W20ARy5Nok/edit?usp=sharing)
+
+
