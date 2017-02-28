@@ -116,9 +116,9 @@ The final grade for the course is based on 6 grades as follows:
 * Feb. 16 	   Test #1
 * Feb. 21/23 	Threads, Network Applications
 * Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
-* Mar. 7/9 	   Data Storage Continued (SQLite, Content Providers, ListView)
-* Mar. 14/16 	Location-Based Applications
-* Mar. 21/23 	Spring Break (no class)
+* Mar. 7/9 	   Spring Break (no class)
+* Mar. 14/16 	Data Storage Continued (SQLite, Content Providers, ListView)
+* Mar. 21/23 	Location-Based Applications
 * Mar. 28/30 	Applications with Multiple Activities; Advanced User Interfaces
 * Apr. 4       Bluetooth, Animation; Multimedia
 * Apr. 6 	   Test #2
