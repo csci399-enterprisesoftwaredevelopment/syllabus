@@ -190,3 +190,36 @@
 * [Slide Presentation](https://docs.google.com/presentation/d/1bZsgUou808CxtCZdqhvlAWaHlW-XmNPR3W20ARy5Nok/edit?usp=sharing)
 
 
+### Class 11 - 28 Feb 2017
+
+1. Android platform
+   * View.post(Runnable)
+   * AsyncTask
+3. [Slide Presentation](https://docs.google.com/presentation/d/1cjtVCSgTf-hfQ1bIhP2hvgy21Zw3IEcIHtREAz9OfDc/edit?usp=sharing)
+
+
+#### Homework (Due 16 Mar 2017)
+
+* Read Chapter 14
+* [StockQuote Project](https://github.com/CSCI-490-MobileAppDevelopment/StockQuotes-project)
+
+
+### Class 12 - 14 Mar 2017
+
+1. Java
+   * Exception Handling
+2. Android platform
+   * Data Storage: User Preferences
+   * Data Storage: Application Preferences
+* [Slide Presentation](https://docs.google.com/presentation/d/1hGqNbwbXcFG47NgFja7YHr_NUHvB8dX-ymzGF3DRYCY/edit?usp=sharing)
+
+
+## Homework (Due 16 Mar 2017)
+
+* Read Chapter 15
+
+### Class 13 - 16 Mar 2017
+1. Android platform
+   * Data Storage: File System
+
+
