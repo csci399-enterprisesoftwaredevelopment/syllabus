@@ -115,11 +115,11 @@ The final grade for the course is based on 6 grades as follows:
 * Feb. 14      Positioning with Fragments, Semester group project introduction
 * Feb. 16 	   Test #1
 * Feb. 21/23 	Threads, Network Applications
-* Feb. 28/2 	Data Storage (Preferences, File System, SQLite)
+* Feb. 28/2 	Threads, Network Applications Continued
 * Mar. 7/9 	   Spring Break (no class)
-* Mar. 14/16 	Data Storage Continued (SQLite, Content Providers, ListView)
-* Mar. 21/23 	Location-Based Applications
-* Mar. 28/30 	Applications with Multiple Activities; Advanced User Interfaces
+* Mar. 14/16 	Data Storage (Preferences, File System)
+* Mar. 21/23 	Data Storage Continued (SQLite, NOSQL, Content Providers, ListView)
+* Mar. 28/30  	Location-Based Applications
 * Apr. 4       Bluetooth, Animation; Multimedia
 * Apr. 6 	   Test #2
 * Apr. 11/13 	2D Graphics; Services
