@@ -223,3 +223,9 @@
    * Data Storage: File System
 
 
+### Data Storage Slide Presentations
+
+* [Data Storage 1](https://docs.google.com/presentation/d/1hGqNbwbXcFG47NgFja7YHr_NUHvB8dX-ymzGF3DRYCY/edit?usp=sharing)
+* [Data Storage 2](https://docs.google.com/presentation/d/1PnkSlKtqtcfgfYsi7aJUeGcXs4sQzCTG6-PrBPba-kY/edit?usp=sharing)
+* [Data Storage 3](https://docs.google.com/presentation/d/1ALIhBTxEzaktTdCGHCVmZo4tFI9LhOhKe3rRDLfVvfM/edit?usp=sharing)
+* [Data Storage 4](https://docs.google.com/presentation/d/1lF8GsuFBLdGP0vGtPZEU1SHaRRhdKpDqdyV8J8Xtd6E/edit?usp=sharing)
