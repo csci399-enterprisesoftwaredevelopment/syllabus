@@ -15,6 +15,9 @@ permalink: /
     * Office Hours: Mon & Wed- 4:30 to 5:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](http://www.printfriendly.com/print?source=homepage&url_s=uGGCF%25dN%25cS%25cSpFpv-eja-zBovyrnCCqrIryBCzrAGmtvGuHomvB%25cSFLyynoHF%25cS#)
+* Slack info:
+   * Channel name: CSCI-490 MobileAppDev Spring 2018
+   * mobileappdev2018
 
 ## Course Description
 
