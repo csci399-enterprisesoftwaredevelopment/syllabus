@@ -109,25 +109,24 @@ The final grade for the course is based on 6 grades as follows:
 
 ### Topics Covered:
 
-* Jan. 12 	   Introductions, Syllabus overview, Course expectations, Overview of Android Application Development
-* Jan. 17      Semester tools, Git, GitHub, Piazza, Android Studio
-* Jan. 19 	   Architecture, Activities and Lifecycle
-* Jan. 24/26   Intent Objects, Managing Resources, Events, Saving Activity State, User Interface Basics
-* Jan. 31/2 	User Interface Basics, Debugging Android Applications, Positioning with Layouts
-* Feb. 7/9 	   Positioning with Layouts and Fragments
-* Feb. 14      Positioning with Fragments, Semester group project introduction
-* Feb. 16 	   Test #1
-* Feb. 21/23 	Threads, Network Applications
-* Feb. 28/2 	Threads, Network Applications Continued
-* Mar. 7/9 	   Spring Break (no class)
-* Mar. 14/16 	Data Storage (Preferences, File System)
-* Mar. 21/23 	Data Storage Continued (SQLite, NOSQL)
-* Mar. 28/30   Data Storage Continued (ORM, Content Providers, ListView)
-* Apr. 4       Location-Based Applications
-* Apr. 6 	   Test #2
-* Apr. 11/13 	Bluetooth, Animation; Multimedia
-* Apr. 18/20 	Selected Topics
-* Apr. 25 	   Project Demonstrations
+* Jan. 9/11	   Syllabus overview, Overview of Android Application Development, Semester tools, Android Studio     
+* Jan. 16/18   Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
+* Jan. 23/25   Events, Saving Activity State, User Interface Basics
+* Jan. 30/1 	User Interface Basics, Debugging Android Applications, Positioning with Layouts
+* Feb. 6/8 	   Positioning with Layouts, Semester group project introduction       
+* Feb. 13 	   Test #1
+* Feb. 15    	Threads, Network Applications
+* Feb. 20/22 	Threads, Network Applications Continued
+* Feb. 27/1 	   
+* Mar. 6/8   	Data Storage (Preferences, File System)
+* Mar. 13/15 	Data Storage Continued (SQLite, NOSQL)
+* Mar. 20/22   spring Break (no class)
+* Mar. 27/29   Location-Based Applications
+* Apr. 3/5     Bluetooth, Animation; Multimedia
+* Apr. 10 	   Test #2
+* Apr. 12    	Fragments
+* Apr. 17/19 	No Class (Group Semester project time)
+* Apr. 28 	   Project Demonstrations (Sat 4-7pm)
 
 ## Resources
 
