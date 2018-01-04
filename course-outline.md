@@ -1,3 +1,5 @@
+## DISCLAIMER: This is from Spring 2017 and is not accurate. Leaving for reference use only 
+
 ## Course Outline
 
 ### Class 0 - 12 Jan 2017
