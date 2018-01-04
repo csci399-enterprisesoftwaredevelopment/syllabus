@@ -18,6 +18,8 @@ permalink: /
 * Slack info:
    * Channel name: CSCI-490 MobileAppDev Spring 2018
    * mobileappdev2018
+   * [Instructions](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/slack_instructions.md).
+
 
 ## Course Description
 
