@@ -51,11 +51,11 @@ We will dive into the nuances of Android mobile device programming to teach how 
 
 ## Homework/Projects
 
-All assignments are listed within the [Course Outline](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/Project_Due_Dates.md).
+All assignments are listed within the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Project_Due_Dates).
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Course Outlline](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/blob/gh-pages/Project_Due_Dates.md). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018) GitHub Organization account. 
+1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Project_Due_Dates). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018) GitHub Organization account. 
 2. Create your Android project with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
 3. In Android Studio, share the project with GitHub.
 4. Read the instructions provided by the README file.
