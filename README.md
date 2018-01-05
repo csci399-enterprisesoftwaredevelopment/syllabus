@@ -66,6 +66,7 @@ All assignments are listed within the [Course Outline](https://github.com/CSCI-4
 9. Make sure all of your code is committed.
 10. Push/sync up to GitHub.
 11. The day the assignment is due, I would like a quick demo from a real device.
+12. Print all relative files and turn in on the day assignment is due. 
 
 ***All assignments are due at the start of class on the specified date.***
 
