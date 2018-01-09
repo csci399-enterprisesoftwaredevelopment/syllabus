@@ -37,7 +37,7 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 ## Course Overview
 
-We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Piazza will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
+We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Slack will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
 
 * The Activity Lifecycle
 * Debugging Android Applications
@@ -56,7 +56,7 @@ All assignments are listed within the [Project Due Dates](https://github.com/CSC
 ### Workflow
 
 1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Project_Due_Dates). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018) GitHub Organization account. 
-2. Create your Android project with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
+2. Create your Android project (in Android Studio) with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
 3. In Android Studio, share the project with GitHub.
 4. Read the instructions provided by the README file.
 5. Modify the files to complete your assignment.
@@ -93,7 +93,7 @@ Bonus points for:
 * Creativity (as long as requirements are fulfilled)
 * Anything listed under `BONUS` in the README of the exercise.
 * Something that WOW's me.
-* Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment/syllabus/issues)
+* Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/issues)
 
 ## Grading
 
