@@ -7,14 +7,14 @@ permalink: /
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment)
+* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Slack](https://mobileappdev2018.slack.com/messages/C7Y0T3VEF/)
         * This is a communications medium for students to interact with one another and myself. I encourage students to interact with one another as a resource as well as provide instructor answers.
     * Office Hours: Mon & Wed- 4:30 to 5:30
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
-* [Syllabus as PDF](http://www.printfriendly.com/print?source=homepage&url_s=uGGCF%25dN%25cS%25cSpFpv-eja-zBovyrnCCqrIryBCzrAGmtvGuHomvB%25cSFLyynoHF%25cS#)
+* [Syllabus as PDF](https://www.printfriendly.com/print?source=homepage&url_s=uGGCF_%7E_PdN_%7E_PcS_%7E_PcSpFpv-eja-zBovyrnCCqrIryBCzrAG-FcabimtvGuHomvB_%7E_PcSFLyynoHF_%7E_PcS)
 * Slack info:
    * Channel name: CSCI-490 MobileAppDev Spring 2018
    * mobileappdev2018
