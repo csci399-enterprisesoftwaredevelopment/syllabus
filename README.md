@@ -108,6 +108,17 @@ The final grade for the course is based on 6 grades as follows:
 
 10% of your grade is attendance/participation
 
+## Grading Scale
+
+* A  90 - 100
+* B+ 85 - 89
+* B  80 - 84
+* C+ 75 - 79
+* C  70 - 74
+* D+ 65 - 69
+* D  60- 64
+* F  0 - 59
+
 ## Course Schedule (tenative)
 
 ### Topics Covered:
