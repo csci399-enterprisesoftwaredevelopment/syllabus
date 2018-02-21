@@ -129,10 +129,10 @@ The final grade for the course is based on 6 grades as follows:
 * Jan. 30/1 	User Interface Basics, Debugging Android Applications, Positioning with Layouts
 * Feb. 6/8 	   Positioning with Layouts, Semester group project introduction       
 * Feb. 13 	   Test #1
-* Feb. 15    	Threads, Network Applications
-* Feb. 20/22 	Threads, Network Applications Continued
-* Feb. 27/1 	   
-* Mar. 6/8   	Data Storage (Preferences, File System)
+* Feb. 15    	Advanced ArrayList Adapters
+* Feb. 20/22 	Data Storage (Preferences, File System), JSON
+* Feb. 27/1 	Threads, Network Applications
+* Mar. 6/8   	Threads, Network Applications, Database concepts
 * Mar. 13/15 	Data Storage Continued (SQLite, NOSQL)
 * Mar. 20/22   spring Break (no class)
 * Mar. 27/29   Location-Based Applications
