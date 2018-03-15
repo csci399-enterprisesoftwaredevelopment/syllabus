@@ -140,7 +140,7 @@ The final grade for the course is based on 6 grades as follows:
 * Apr. 10 	   Test #2
 * Apr. 12    	Fragments
 * Apr. 17/19 	No Class (Group Semester project time)
-* Apr. 28 	   Project Demonstrations (Sat 4-7pm)
+* Apr. 26 	   Project Demonstrations
 
 ## Resources
 
