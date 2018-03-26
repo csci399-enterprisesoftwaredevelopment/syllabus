@@ -136,7 +136,7 @@ The final grade for the course is based on 6 grades as follows:
 * Mar. 13/15 	Data Storage Continued (SQLite, NOSQL)
 * Mar. 20/22   spring Break (no class)
 * Mar. 27/29   Location-Based Applications
-* Apr. 3/5     Bluetooth, Animation; Multimedia
+* Apr. 3/5     Material Design
 * Apr. 10 	   Test #2
 * Apr. 12    	Fragments
 * Apr. 17/19 	No Class (Group Semester project time)
