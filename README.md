@@ -139,7 +139,7 @@ The final grade for the course is based on 6 grades as follows:
 * Apr. 3/5     Material Design
 * Apr. 10 	   Test #2
 * Apr. 12    	Fragments
-* Apr. 17/19 	No Class (Group Semester project time)
+* Apr. 17/19 	No Class (Online coursework and Group Semester project time)
 * Apr. 26 	   Project Demonstrations
 
 ## Resources
