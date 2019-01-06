@@ -17,7 +17,7 @@ permalink: /
 * [Syllabus as PDF](https://www.printfriendly.com/print?source=homepage&url_s=uGGCF_%7E_PdN_%7E_PcS_%7E_PcSpFpv-eja-zBovyrnCCqrIryBCzrAG-FcabimtvGuHomvB_%7E_PcSFLyynoHF_%7E_PcS)
 * Slack info:
    * Channel name: CSCI-490 MobileAppDev Spring 2019
-   * mobileappdev2018
+   * mobileappdev2019
    * [Instructions](https://github.com/CSCI-490-MobileAppDevelopment-S2019/syllabus/blob/gh-pages/slack_instructions.md).
 
 
