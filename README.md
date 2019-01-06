@@ -7,7 +7,7 @@ permalink: /
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018)
+* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2019)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Slack](https://mobileappdev2018.slack.com/messages/C7Y0T3VEF/)
@@ -18,7 +18,7 @@ permalink: /
 * Slack info:
    * Channel name: CSCI-490 MobileAppDev Spring 2018
    * mobileappdev2018
-   * [Instructions](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/slack_instructions.md).
+   * [Instructions](https://github.com/CSCI-490-MobileAppDevelopment-S2019/syllabus/blob/gh-pages/slack_instructions.md).
 
 
 ## Course Description
@@ -55,7 +55,7 @@ All assignments are listed within the [Project Due Dates](https://github.com/CSC
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Project_Due_Dates). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2018) GitHub Organization account. 
+1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2019/Project_Due_Dates). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2019) GitHub Organization account. 
 2. Create your Android project (in Android Studio) with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
 3. In Android Studio, share the project with GitHub.
 4. Read the instructions provided by the README file.
