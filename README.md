@@ -16,7 +16,7 @@ permalink: /
    * [Email](mailto:kabriggs@g.cofc.edu) for 1-on-1 help, or to set up a time to meet
 * [Syllabus as PDF](https://www.printfriendly.com/print?source=homepage&url_s=uGGCF_%7E_PdN_%7E_PcS_%7E_PcSpFpv-eja-zBovyrnCCqrIryBCzrAG-FcabimtvGuHomvB_%7E_PcSFLyynoHF_%7E_PcS)
 * Slack info:
-   * Channel name: CSCI-490 MobileAppDev Spring 2018
+   * Channel name: CSCI-490 MobileAppDev Spring 2019
    * mobileappdev2018
    * [Instructions](https://github.com/CSCI-490-MobileAppDevelopment-S2019/syllabus/blob/gh-pages/slack_instructions.md).
 
