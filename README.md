@@ -127,7 +127,7 @@ The final grade for the course is based on 6 grades as follows:
 * Jan. 14/16   Semester tools, Android Studio     
 * Jan. 21/23   Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
 * Jan. 28/30   Events, Saving Activity State, User Interface Basics
-* Jan. 4/6 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
+* Feb. 4/6 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
 * Feb. 11/13   Positioning with Layouts, Semester group project introduction       
 * Feb. 18 	   Test #1
 * Feb. 20    	Advanced ArrayList Adapters
