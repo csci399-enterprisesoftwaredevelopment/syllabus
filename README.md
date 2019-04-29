@@ -60,35 +60,20 @@ All assignments are listed within the [Project Due Dates](https://github.com/CSC
 
 #### Versions
 
-For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date. See also: [extra credit](#extra-credit).
+For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date.
 
 ### Requirements
 
 * All applications must build, install, and run properly on a real Android phone (of the student's choosing). 
 * Assignments must be completed by the due date. Late assignments will only be accepted one week late and will be marked down a whole letter grade.
 
-#### Extra Credit
-
-Bonus points for:
-
-* Automated tests
-* Creativity (as long as requirements are fulfilled)
-* Anything listed under `BONUS` in the README of the exercise.
-* Something that WOW's me.
-* Look through and create [issues](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/issues)
 
 ## Grading
 
 The final grade for the course is based on 6 grades as follows:
 
-90% of your grade consists of the following:
-* Two assigned in-class tests. Each test counts as a separate grade.
-* Daily quizzes and minor assignments – collectively count as 1 grade. (No make-ups will be given, but lowest two quiz grades will be dropped.)
-* Programming assignments – collectively count as 2 grades.
-* Course project – counts as 2 grades.
-* Lowest grade from above 7 grades will be dropped. If the lowest grade corresponds to the course project or the collective grade for the programming assignments, only one of the associated grades will be dropped.
-
-10% of your grade is attendance/participation
+100
+aQ
 
 ## Grading Scale
 
