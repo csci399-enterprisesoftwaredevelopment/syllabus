@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Mobile Application Development syllabus
+# <img src="assets/androidmedium2.png" alt="class logo" class="logo"/> Enterprise Software Development syllabus
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/meta.md) document.***
 
@@ -34,38 +34,21 @@ This hands-on, project-oriented course explores through research the principles 
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
 
-## Course Overview
-
-We will dive into the nuances of Android mobile device programming to teach how to write and understand Mobile Application Development relating those applications to the Model View Controller design pattern.  Modern tools such as Android Studio, Git, GitHub, and the Debugger will be heavily used.  Slack will be used so that students and instructor may have a collaborative Question and Answer environment. I expect maximum participation with students answering other students' questions if they know the answer.  All projects will be administered through GitHub, where students are expected to initiate the assignment and complete under Version Control (accomplished with Git and pushed to GitHub).  Completing the assignment as assigned will not be enough for an A+. Students must add at least one "WOW" feature to the project and must be successfully demo'd to the Instructor. Topics covered include:
-
-* The Activity Lifecycle
-* Debugging Android Applications
-* Creating User Interfaces with Layouts and Widgets
-* UI Fragments and Fragment Managers
-* The Tool Bar
-* SQLite Databases
-* Explicit and Implicit Intents
-* Bluetooth
-* and More...
-
 ## Homework/Projects
 
-All assignments are listed within the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2018/Project_Due_Dates).
+All assignments are listed within the [Project Due Dates](https://github.com/CSCI399-enterprisesoftwaredevelopment/Project_Due_Dates).
 
 ### Workflow
 
-1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI-490-MobileAppDevelopment-S2019/Project_Due_Dates). This will take you to the project in [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2019) GitHub Organization account. 
-2. Create your Android project (in Android Studio) with the same name as our GitHub Organization project name with '-yourLastName' appended to the name.
-3. In Android Studio, share the project with GitHub.
-4. Read the instructions provided by the README file.
-5. Modify the files to complete your assignment.
-6. Test your solution with both an Android Virtual Device and a real phone.
-7. Create and include a screenshots of your application in action.
-8. Create a README file to communicate anything you need to me.
-9. Make sure all of your code is committed.
-10. Push/sync up to GitHub.
-11. The day the assignment is due, I would like a quick demo from a real device.
-12. Print all relative files and turn in on the day assignment is due. 
+1. Click on the appropiate project link in the [Project Due Dates](https://github.com/CSCI399-enterprisesoftwaredevelopment/Project_Due_Dates). This will take you to the project in [CSCI399-EnterpriseSoftwareDevelopment](https://github.com/csci399-enterprisesoftwaredevelopment) GitHub Organization account. 
+2. Create your project in an editor of your choice and push to our GitHub Organization project.
+3. Read the instructions provided by the README file.
+4. Modify the files to complete your assignment.
+5. Test your solution locally.
+6. Create a README file to communicate anything you need to me.
+7. Make sure all of your code is committed.
+8. Push/sync up to GitHub.
+
 
 ***All assignments are due at the start of class on the specified date.***
 
