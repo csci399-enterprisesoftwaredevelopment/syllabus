@@ -64,16 +64,20 @@ For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: th
 
 ### Requirements
 
-* All applications must build, install, and run properly on a real Android phone (of the student's choosing). 
+* All applications must build, install, and run properly in a real Wildfly instance and data must persist in a relational database in a Redhat Linux environment. A README.md must be completed explainging the steps to get the project up and running.
 * Assignments must be completed by the due date. Late assignments will only be accepted one week late and will be marked down a whole letter grade.
 
 
 ## Grading
 
-The final grade for the course is based on 6 grades as follows:
+The final grade for the course is based on 6 deliverables as follows:
 
-100
-aQ
+1. Data Modeling for the applicaton.
+2. Database implementation.
+3. Wildfly setup and configuration.
+4. API design and development.
+5. Middleware application development with ORM integration.
+6. Client applicaiton development. 
 
 ## Grading Scale
 
@@ -90,77 +94,17 @@ aQ
 
 ### Topics Covered:
 
-* Jan. 9       Syllabus overview, Overview of Android Application Development
-* Jan. 14/16   Semester tools, Android Studio     
-* Jan. 21/23   Architecture, Activities and Lifecycle, Intent Objects, Managing Resources
-* Jan. 28/30   Events, Saving Activity State, User Interface Basics
-* Feb. 4/6 	   User Interface Basics, Debugging Android Applications, Positioning with Layouts
-* Feb. 11/13   Positioning with Layouts, Semester group project introduction       
-* Feb. 18 	   Test #1
-* Feb. 20    	Advanced ArrayList Adapters
-* Feb. 25/27 	Data Storage (Preferences, File System), JSON
-* Feb. 4/6  	Threads, Network Applications
-* Mar. 11/13 	No Class (Online coursework and Group Semester project time)
-* Mar. 18/20   spring Break (no class)
-* Apr. 25/27   Material Design
-* Mar. 1/3     Location-Based Applications
-* Apr. 8 	   Test #2
-* Apr. 10    	Fragments
-* Apr. 15/17 	Firebase Database
-* Apr. 22/23   Project Demonstrations
+* Week 1       Research Relation database theory and create a data model
+* Week 2       Research JavaEE and EJB usage. 
+* Week 3       Research JavaEE containers and ORM frameworks.
+* Week 4       Research API security.
+* Week 5       Research Client application development
+* Week 6       Final project integrations and orchestrations.  
 
-## Resources
 
-### Required Reading
-
-* [Introduction to Android Application Development, 5th Edition](https://www.amazon.com/Introduction-Android-Application-Development-Essentials/dp/013438945X/ref=sr_1_1?s=books&ie=UTF8&qid=1485636446&sr=1-1&keywords=intro+to+android+application+development) by Joseph Annuzzi, Jr.
-
-### Recommended Reading
-* [Android Studio Development Essentials](https://www.amazon.com/Android-Studio-Development-Essentials/dp/1519722087/ref=sr_1_2?ie=UTF8&qid=1484255739&sr=8-2&keywords=android+studio+development) by Neil Smyth
-* [Advanced Android Application Development](https://www.amazon.com/Advanced-Android-Application-Development-Developers/dp/0133892387/ref=pd_bxgy_14_img_2/155-7215792-6116344?_encoding=UTF8&pd_rd_i=0133892387&pd_rd_r=QWRAD2HC9RAM0XXKABE9&pd_rd_w=3xsJo&pd_rd_wg=0ROZw&psc=1&refRID=QWRAD2HC9RAM0XXKABE9) by Joseph Annuzzi, Jr.
-* [Android Programming The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Nerd-Ranch-Guide/dp/0134171454/ref=sr_1_1?ie=UTF8&qid=1478874065&sr=8-1&keywords=android+programming+the+big+nerd+ranch+guide+2nd+edition)
-### Beginner Materials
-
-This class assumes you are confident with this material, but in case you need a brush-up...
-
-* [Udacity Courses](https://www.udacity.com/)
-* [Developer's Blog](http://android-developers.blogspot.com/)
-
-### Tools
-
-* [Android Studio](https://developer.android.com/studio/index.html)
-
-#### GitHub
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](http://hackerhours.org/resources.html#github)
-* GitHub Pages
-    * [Official site](https://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
-### Reference
-
-* Developer Resources  – [Android Developers](https://developer.android.com/index.html)
-* [Android Studio User Guide](https://developer.android.com/studio/intro/index.html)
-* [Textbook's website](https://introductiontoandroid.blogspot.com/)
 
 ## Statements on Plagiarism
 
 ### SCPS
 
 > The College of Charleston takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
-
-### Instructor
-
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
-
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
-
-
-## Pairing Tips
-
-* Groups of two, unless there is an odd number of students
-* Agree on an editor and environment that you're both comfortable with
-* Use Github for collaboration, branch/merge model is recommended
-* Meet regularly. Use Google Hangouts when you cannot meet in person (Hint: Sharing your screen is very useful)
