@@ -7,7 +7,7 @@ permalink: /
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/CSCI-490-MobileAppDevelopment-S2018/syllabus/blob/gh-pages/meta.md) document.***
 
-* **Course:** [CSCI-490-MobileAppDevelopment](https://github.com/CSCI-490-MobileAppDevelopment-S2019)
+* **Course:** [CSCI-399-EnterpriseSoftwareDevelopment](https://github.com/CSCI399-enterprisesoftwaredevelopment)
 * **Instructor:** [Keith Briggs](http://kabriggs.people.cofc.edu)
 * **Need help?**
     * [Slack](https://mobileappdev2019.slack.com/messages/C7Y0T3VEF/)
@@ -23,8 +23,7 @@ permalink: /
 
 ## Course Description
 
-This hands-on, project-oriented course explores the principles and tools involved in the design and construction of applications for mobile devices. Although the course focuses on the Android platform, the basic concepts and experiences extend to other mobile devices. Topics include an overview of mobile application development, the Android application architecture, mobile application lifecycle, managing application resources, designing user interfaces, data storage options, integrating audio and video, location-based services, cross-platform development using a mobile device emulator, and porting applications to actual devices. In addition to several smaller programming assignments to provide experience and reinforce concepts, students will work in teams on a substantial programming project to design, develop, and deploy a mobile application.
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+This hands-on, project-oriented course explores through research the principles and tools involved in the design and construction of enterprise applications. Although the course focuses on the Java EE platform, the basic concepts and experiences extend to other enterprise systems. Topics include an overview of enterprise systems and architecture, data layer integration through ORM, middleware development, and API design. Development will include Relational database design and overcoming the object-relational impedance mismatch and client development to access the API.
 
 ## Prerequisites
 
